@@ -1,4 +1,4 @@
-// GENERATED FILE - DO NOT EDIT
+rootProject.name='NewApp'
 include ":"
 include ":CordovaLib"
 include ":app"
